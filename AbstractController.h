@@ -4,7 +4,8 @@
 #include "Input.h"
 class AbstractController{
 public:
-    virtual Input move() = 0;
+    virtual Input move() = 0; // hi
 };
 
 #endif // ABSTRACTCONTROLLER_H
+
