@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/textures">
+        <file>Textures/bloody_frame.png</file>
+        <file>Textures/chest.png</file>
+        <file>Textures/levelchanger.png</file>
+        <file>Textures/new_game_button.png</file>
+        <file>Textures/pit.png</file>
+        <file>Textures/ramp.png</file>
+        <file>Textures/startscreen.png</file>
+        <file>Textures/startscreen__.png</file>
+        <file>Textures/switch.png</file>
+    </qresource>
+</RCC>
